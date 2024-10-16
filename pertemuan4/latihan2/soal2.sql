@@ -1,2 +1,1 @@
-SELECT COUNT(*) mahasiswa_id
-FROM mahasiswa;
+SELECT * FROM mahasiswa WHERE jurusan = 'Teknik Informatika' AND alamat = 'Jl. Merdeka';
